@@ -3,7 +3,7 @@ class Bifrost < Formula
     desc "virtualization via containers"
     homepage "https://github.com/ericdeansanchez/bifrost"
     url "https://github.com/ericdeansanchez/bifrost/releases/download/v0.1.0-beta/bifrost-#{version}-x86_64-apple-darwin18.6.0.tar.gz"
-    sha256 "102d82ffcbf2a7ad9d8f8707e1347ede008a47e3d41a6e452200f8800b999587"
+    sha256 "0590d964557f200067b8eebfbafd26af94d6b2cf0c82cc3295f3d9f595eea1f5"
 
     def install
       bin.install "bifrost"
