@@ -3,7 +3,7 @@ class Replicate < Formula
   desc 'replicate generic cli applications'
   homepage 'https://github.com/ericdeansanchez/replicate'
   url "https://github.com/ericdeansanchez/replicate/releases/download/v0.1.0/replicate-#{version}-x86_64-apple-darwin18.6.0.tar.gz"
-  sha256 '75ec9dd223628ab3535c3e15d769973e2c4356371b03700760bf3ad0c004c8d2'
+  sha256 '41226f453a3053123b48ddfe473cb11154793cb22fe7a6127693538baf86fdf0'
 
   def install
     bin.install 'replicate'
