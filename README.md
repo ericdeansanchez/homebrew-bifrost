@@ -1,6 +1,3 @@
-# homebrew-bifrost
-
-
 ## Cheat Sheet
 
 ```
